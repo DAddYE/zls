@@ -5,8 +5,8 @@ let
   zig-overlay = pkgs.fetchFromGitHub {
     owner = "arqv";
     repo = "zig-overlay";
-    rev = "5b9504b8bff072553051d6e130727f7f5c0715c3";
-    sha256 = "NDm5qT6/qr789IhI2dsQxrR5/Mr7cXVj17x/+tl3pDE=";
+    rev = "39d034932f72c5e66f290275bde65df1a57c9e86";
+    sha256 = "39d034932f72c5e66f290275bde65df1a57c9e86";
   };
   gitignoreSrc = pkgs.fetchFromGitHub {
     owner = "hercules-ci";
