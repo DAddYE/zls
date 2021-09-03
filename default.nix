@@ -6,7 +6,7 @@ let
     owner = "arqv";
     repo = "zig-overlay";
     rev = "39d034932f72c5e66f290275bde65df1a57c9e86";
-    sha256 = "39d034932f72c5e66f290275bde65df1a57c9e86";
+    sha256 = "sha256-KyJGu/PhH5kjCm7EAs6npI6qgKeWjetc2GPRfpP/5pM=";
   };
   gitignoreSrc = pkgs.fetchFromGitHub {
     owner = "hercules-ci";
